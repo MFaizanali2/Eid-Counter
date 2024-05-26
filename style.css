@@ -7,3 +7,35 @@ html,body{
     width: 100%;
     height: 100vh;
 }
+#container{
+    width: 100%;
+    height: 100%;
+    /* background-color: #005A9C; */
+    background-image: url(images/images.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* #container img{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    
+} */
+#eid-timer{
+    /* background-color: #1E90FF; */
+    /* background: linear-gradient(to top, #c7998c 0%, #ecb58b 100%); */
+    backdrop-filter: blur(5px);
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    top: 40%;   
+}
+#number{
+    font-size: 6rem;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: 38%;
+    color: #555252;
+}
