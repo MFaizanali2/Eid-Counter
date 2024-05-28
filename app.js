@@ -1,3 +1,3 @@
-let number = document.getElementById("number");
+let number = document.getElementById("number").value;
 let date = new Date();
-console.log(date.getMinutes());
+let eid_date = new Date("june 16, 2024 00:00:00").getTime(); 
