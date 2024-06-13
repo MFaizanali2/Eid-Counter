@@ -1,5 +1,5 @@
 
-let eid_date = new Date("june 16, 2024 00:00:00").getTime(); 
+let eid_date = new Date("june 17, 2024 00:00:00").getTime(); 
 
 let countdown = setInterval(() => {
 
